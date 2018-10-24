@@ -8,7 +8,8 @@
 # Beginning Frontend Development with React eLearning
 Through this course, you'll learn the basics you need to get up and running with React and tackle real-world projects and challenges. It begins by explaining the basics of React and shows you the nuances while setting up a React-based application and designing a UI. Once you are comfortable in the React world, you are introduced to components and how to compose them using JSX. With this course, you can learn advanced concepts, such as data propagation, data binding, and also discover how to manage the internal state of a component. You'll also learn about component lifecycle events and understand how to manage routing. By the time you are done with the course, you'll find yourself feeling confident to take on real-world projects.
 
-
+## Note
+There are no code files for Lesson01
 
 ## What you will learn
 * Use React within a wider application stack
